@@ -1,7 +1,6 @@
 # GreenRAG-Sec: Trust-Aware, Secure RAG & Cyber-Physical Grid Assistant
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Branch: main](https://img.shields.io/badge/branch-main-brightgreen.svg)](https://github.com/pritiverse/greenrag)
 
 > **A multi-dimensional, trust-aware arbitration and cryptographic verification architecture that isolates generative AI within an empirical statistical sandbox, preventing uncalibrated or hallucinated AI recommendations from triggering dangerous physical actions in utility-scale electric power grids.**
@@ -160,7 +159,7 @@ Open `http://localhost:8000/console/` in your browser to access the live dashboa
 | **Pritika Kasinathan** (`23BIT0232`) | **Track C: Security, Trust & Documentation** | Threat matrix, 5-stage telemetry detector, prompt injection screening, HMAC offline document trust registry, secure RAG pipeline, trust decision engine, Security Lab. |
 | **Tarunica Senthil** (`23BIT0185`) | **Track B: Hybrid RAG, Fault Diagnosis & Frontend** | 189-document KB construction, semantic chunking, hybrid BM25 + dense retrieval with cross-encoder rerank, Wind Farm A fault diagnosis, console UI. |
 | **Minmini K** (`23BIT0198`) | **Track A: Forecasting & Azure Cloud** | Solar & wind power forecasting with 26 causal lag features, Conformal Quantile Regression (CQR), Azure Key Vault / Blob / App Insights integration. |
-| **Chirag Das** (`daschirag`) | **Foundational Architecture & Shared Infrastructure** | Initial project scaffold, Phase 0 regression test harness, causal preprocessor, feature engineering, core API router, export tooling. |
+| **all** | **Foundational Architecture & Shared Infrastructure** | Initial project scaffold, Phase 0 regression test harness, causal preprocessor, feature engineering, core API router, export tooling. |
 
 ---
 
