@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# IDE & Editor
+.vscode/
+.idea/
+
+# OS Artifacts
+.DS_Store
+Thumbs.db
+
+# Git Submodule Backups (preserved locally, excluded from git)
+.git_submodule_backup/
+**/.git_submodule_backup/
+
+# Environment and sensitive files
+.env
+.env.*
+!.env.example
+
